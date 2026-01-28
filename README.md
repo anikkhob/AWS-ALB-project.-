@@ -117,16 +117,6 @@ Just say the word
 
 
 
----
-
-If you want, I can also:
-- 🔹 Add **diagrams (ASCII or draw.io style)**
-- 🔹 Convert this into **GitHub professional format**
-- 🔹 Add **ALB + EC2 + Auto Scaling example**
-- 🔹 Simplify it for **interview explanation**
-
-Just tell me 
-
 
 
 
