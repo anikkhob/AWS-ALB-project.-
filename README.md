@@ -1,5 +1,6 @@
 # 🚀 AWS Application Load Balancer (ALB)
 
+**Application Load Balancer Request Workflow**
 
 <img width="1980" height="2283" alt="image" src="https://github.com/user-attachments/assets/186a5505-b76b-4f64-b1a9-fa86b24abf47" />
 
@@ -22,7 +23,8 @@ ALB is best suited for **web applications, microservices, and APIs** where routi
 
 ---
 
-## 🧩 ALB Components
+##  <img width="318" height="208" alt="image" src="https://github.com/user-attachments/assets/d996619a-108f-428d-8787-0c3099498541" />  **ALB Components**
+ **ALB Components**
 
 ### 1️⃣ Listener
 - Listens on a specific **port and protocol** (e.g., HTTP:80, HTTPS:443)
@@ -111,7 +113,7 @@ If you want, next I can:
 - 📌 Convert this into **interview-ready explanation**
 - 📌 Make a **diagram section for GitHub**
 
-Just say the word 🚀
+Just say the word 
 
 
 
@@ -123,6 +125,8 @@ If you want, I can also:
 - 🔹 Add **ALB + EC2 + Auto Scaling example**
 - 🔹 Simplify it for **interview explanation**
 
-Just tell me 😄
+Just tell me 
+
+
 
 
